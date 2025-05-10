@@ -22,13 +22,6 @@ This is my self-generated profile page powered by [readme-scribe](https://github
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<!--
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
--->
-
 #### ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
