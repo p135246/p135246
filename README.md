@@ -16,11 +16,6 @@ This is my self-generated profile page powered by [readme-scribe](https://github
 - [p135246/canonical-ibl-algebra](https://github.com/p135246/canonical-ibl-algebra) - An implementation of the canonical IBL algebra on cyclic words in Mathematica
 - [p135246/quickfilter-kbd](https://github.com/p135246/quickfilter-kbd) - A simple Thunderbird extension that adds keyboard shortcuts to quick-filter messages with the same sender, subject, or recipient as a selected message.
 - [p135246/setuplinks](https://github.com/p135246/setuplinks) - Creates a symbolic link for each line of an input file.
-- [p135246/latex-bbb-whiteboard](https://github.com/p135246/latex-bbb-whiteboard) - LaTeX template for BigBlueButton whiteboards
-- [p135246/olgit](https://github.com/p135246/olgit) - A BASH script to synchronize a Git repository with Overleaf using overleaf-sync of Moritz Glöckl written in Python.
-- [p135246/p135246.github.io](https://github.com/p135246/p135246.github.io) - github.io webpage
-- [p135246/phd-defence-talk](https://github.com/p135246/phd-defence-talk) - My Ph.D.-defence talk
-- [p135246/phd-thesis](https://github.com/p135246/phd-thesis) - My Ph.D.-thesis --- submitted on October 11 and defended on December 20 of the year 2019.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,11 +34,6 @@ This is my self-generated profile page powered by [readme-scribe](https://github
 - [WolframInstitute/Hypergraph](https://github.com/WolframInstitute/Hypergraph) - Hypergraph tools (4 months ago)
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root. (10 months ago)
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers. (10 months ago)
-- [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim. (10 months ago)
-- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books (1 year ago)
-- [beevik/etree](https://github.com/beevik/etree) - parse and generate XML easily in go (1 year ago)
-- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim (1 year ago)
-- [zeroxoneafour/polonium](https://github.com/zeroxoneafour/polonium) - Autotile manager for Plasma 6 (1 year ago)
 
 #### 📫 How to reach me
 
